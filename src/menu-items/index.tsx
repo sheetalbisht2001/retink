@@ -8,7 +8,7 @@ const isDevEnv = process.env.NODE_ENV === 'development'
 
 const menuItems = {
   items: [
-    utilities,
+    // utilities,
     other
     // patientStudies,
     // ...(isDevEnv ? [dashboard, pages, utilities, other] : [])

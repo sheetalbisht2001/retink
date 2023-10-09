@@ -87,6 +87,9 @@ const Customization = () => {
     }
     dispatch({ type: SET_FONT_FAMILY, fontFamily: newFont });
   }, [dispatch, fontFamily]);
+  
+
+  return <></>
 
   return (
     <>
